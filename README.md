@@ -11,4 +11,4 @@ The dataset comes from Fruits and Vegetables Image Recognition Dataset on Kagg
 The ResNet feature set has a strong representation of our images, and we achieved 91.667% final test accuracy with ResNet features alone with SVM. With the addition of hand-crafted features, we were able to achieve 89.286% validation accuracy.
 
 ## Report
-Please see report.ipynb for complete analysis. 
+Please see [report.ipynb](https://github.com/CynYZhu/food_image_classification) for complete analysis. 
